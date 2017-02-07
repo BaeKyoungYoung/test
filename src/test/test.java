@@ -2,6 +2,6 @@ package test;
 
 public class test {
 	public void main(String[] args){
-		System.out.println("hi");
+		System.out.println("hi"); 
 	}
 }
