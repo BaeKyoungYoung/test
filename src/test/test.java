@@ -10,12 +10,8 @@ public class test {
 	}
 	
 	static class VersionName{		
-<<<<<<< HEAD
-		String versionName="v1.31";		
-		
-=======
 		String versionName="v1.4";		
->>>>>>> refs/heads/feature/fun1v3
+		
 		public String getVersionName(){
 			return this.versionName;
 		}
