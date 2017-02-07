@@ -10,7 +10,7 @@ public class test {
 	}
 	
 	static class VersionName{		
-		String versionName="v1.0";		
+		String versionName="v1.1";		
 		public String getVersionName(){
 			return this.versionName;
 		}
